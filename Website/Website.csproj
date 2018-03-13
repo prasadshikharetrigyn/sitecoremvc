@@ -119,23 +119,31 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
     <Content Include="Global.asax" />
     <Content Include="Views\web.config" />
     <Content Include="App_Config\ConnectionStrings.config" />
     <Content Include="App_Config\Include\Rainbow.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.SharedSecret.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config" />
+    <Content Include="App_Data\Unicorn\SitecoreItemsTest\Templates\User Defined.yml" />
+    <Content Include="App_Data\Unicorn\SitecoreItemsTest\Templates\User Defined\TestItem.yml" />
+    <Content Include="App_Data\Unicorn\SitecoreItemsTest\Templates\User Defined\TestItem\SectionOne.yml" />
+    <Content Include="App_Data\Unicorn\SitecoreItemsTest\Templates\User Defined\TestItem\SectionOne\ItemName.yml" />
+    <Content Include="App_Data\Unicorn\SitecoreItemsTest\Content\content.yml" />
+    <Content Include="App_Data\Unicorn\SitecoreItemsTest\Content\content\DerivedFromTestItem.yml" />
+    <Content Include="App_Data\Unicorn\SitecoreItemsTest\Content\content\Home.yml" />
     <None Include="packages.config" />
     <Content Include="Web.config" />
     <Content Include="Views\TestPage.cshtml" />
@@ -148,7 +156,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>

@@ -23,8 +23,8 @@ D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\So
 D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\obj\Release\Website.pdb
 D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\bin\Kamsar.WebConsole.dll
 D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\bin\MicroCHAP.dll
+D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\obj\Release\Website.csprojResolveAssemblyReference.cache
 D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\bin\Rainbow.dll
 D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\bin\Rainbow.Storage.Sc.dll
 D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\bin\Rainbow.Storage.Yaml.dll
 D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\bin\Unicorn.dll
-D:\Sitecore Instance Manager\Sitecore Repository\Sitecore Website\sitecoremvc\SourceCode\Website\obj\Release\Website.csprojResolveAssemblyReference.cache
